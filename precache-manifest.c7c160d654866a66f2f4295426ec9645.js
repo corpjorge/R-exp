@@ -4,12 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/.htaccess"
   },
   {
-    "revision": "fedf41c220e7f63945d7",
+    "revision": "50dd3b2958837bebd928",
     "url": "/css/app.b0440c9a.css"
   },
   {
-    "revision": "e28899d36fe9a1acf4ee",
-    "url": "/css/chunk-271d337b.040b1819.css"
+    "revision": "2158f737da3bd36c79b2",
+    "url": "/css/chunk-224174d9.8fbf7241.css"
   },
   {
     "revision": "c6c0809c0359b5ce1ed7",
@@ -160,16 +160,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/tania.jpg"
   },
   {
-    "revision": "9ce42c9cab79714394304796d4c120e9",
+    "revision": "d79953b0dcd6f7d0b95d15ffbd74e6c4",
     "url": "/index.html"
   },
   {
-    "revision": "fedf41c220e7f63945d7",
-    "url": "/js/app.323549dc.js"
+    "revision": "50dd3b2958837bebd928",
+    "url": "/js/app.bc875249.js"
   },
   {
-    "revision": "e28899d36fe9a1acf4ee",
-    "url": "/js/chunk-271d337b.b3b6e22f.js"
+    "revision": "2158f737da3bd36c79b2",
+    "url": "/js/chunk-224174d9.1b1a22ff.js"
   },
   {
     "revision": "9aced6f28be055e0d315",

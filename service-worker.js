@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3ed5a2aaed3a0d223d3eafa51bc773fd.js"
+  "/precache-manifest.c7c160d654866a66f2f4295426ec9645.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "coopfon"});
