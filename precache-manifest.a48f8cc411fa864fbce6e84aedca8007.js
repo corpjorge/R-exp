@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/.htaccess"
   },
   {
-    "revision": "50dd3b2958837bebd928",
+    "revision": "00f30581c8f16d40a35b",
     "url": "/css/app.b0440c9a.css"
   },
   {
@@ -160,12 +160,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/tania.jpg"
   },
   {
-    "revision": "d79953b0dcd6f7d0b95d15ffbd74e6c4",
+    "revision": "502622ec9f5f8d385cef667436008b80",
     "url": "/index.html"
   },
   {
-    "revision": "50dd3b2958837bebd928",
-    "url": "/js/app.bc875249.js"
+    "revision": "00f30581c8f16d40a35b",
+    "url": "/js/app.a5550977.js"
   },
   {
     "revision": "2158f737da3bd36c79b2",
